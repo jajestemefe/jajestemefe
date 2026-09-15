@@ -26,6 +26,16 @@ GameDev.tv course and then independently expanded, documented, and released.
 - Git and GitHub workflows
 - Linux development and packaging
 
+## Other Projects
+
+- [Python Terminal RPG](https://github.com/jajestemefe/python-terminal-rpg) —
+  modular terminal game featuring OOP, procedural encounters, combat, inventory,
+  and JSON persistence.
+- [KNN and Perceptron in C++](https://github.com/jajestemefe/iris-knn-perceptron-cpp) —
+  machine-learning algorithms implemented from scratch for Iris classification.
+- [Naive Bayes in C++](https://github.com/jajestemefe/iris-naive-bayes-cpp) —
+  probabilistic classification with Laplace smoothing and model evaluation.
+
 ## Currently Learning
 
 I am continuing to develop my Unreal Engine and C++ skills while working toward
