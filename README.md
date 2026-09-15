@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Efe Ozarslan
 
-<!--
-**jajestemefe/jajestemefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the Polish-Japanese Academy of Information
+Technology in Warsaw, focused on C++ and gameplay programming with Unreal
+Engine.
 
-Here are some ideas to get you started:
+I am building practical projects and strengthening my programming fundamentals
+with the goal of becoming a Gameplay Programmer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project — BattleBlaster
+
+An educational Unreal Engine C++ tank-combat project that I completed through a
+GameDev.tv course and then independently expanded, documented, and released.
+
+[![BattleBlaster gameplay](https://raw.githubusercontent.com/jajestemefe/BattleBlaster/master/Docs/Images/BattleBlasterPicture1.png)](https://github.com/jajestemefe/BattleBlaster)
+
+- [Repository](https://github.com/jajestemefe/BattleBlaster)
+- [Gameplay video](https://youtu.be/vPeHSkbgAeY)
+- [Linux release](https://github.com/jajestemefe/BattleBlaster/releases/tag/v1.0.1)
+
+## Technical Focus
+
+- C++ and object-oriented programming
+- Unreal Engine gameplay framework
+- Gameplay systems and debugging
+- Git and GitHub workflows
+- Linux development and packaging
+
+## Currently Learning
+
+I am continuing to develop my Unreal Engine and C++ skills while working toward
+increasingly original gameplay projects.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jajestemefe/)
