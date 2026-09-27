@@ -36,10 +36,14 @@ GameDev.tv course and then independently expanded, documented, and released.
 - [Naive Bayes in C++](https://github.com/jajestemefe/iris-naive-bayes-cpp) —
   probabilistic classification with Laplace smoothing and model evaluation.
 
-## Currently Learning
+## Current Focus
 
-I am continuing to develop my Unreal Engine and C++ skills while working toward
-increasingly original gameplay projects.
+I recently completed the 26.5-hour
+[Unreal Engine 5 C++ Game Development course](https://ude.my/UC-c610f95b-9ce4-4f34-88fb-d34d6d07b132),
+fully updated for Unreal Engine 5.6.
+
+I am now applying those skills to increasingly original gameplay mechanics,
+systems, and playable projects.
 
 ## Connect
 
